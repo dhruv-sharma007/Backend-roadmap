@@ -121,7 +121,7 @@
 - **Load Balancing & High Availability**
   - Learn about load balancing using Nginx.
   - Understand horizontal vs. vertical scaling.
-  - Use CDNs (like Cloudflare or AWS CloudFront) to serve static assets efficiently.
+  - Use CDNs (like Cloudflare or AWS CloudFront) to serve static assets efficiently. 
 
 ---
 
@@ -136,12 +136,13 @@
 
 ---
 
-### Bonus: Extra Skills for a Senior Backend Engineer
+### Bonus: Extra essentials Skills for a Senior Backend Engineer
 
 - **System Design Principles:**
   - Load balancing, CAP theorem, and caching strategies.
 - **Clean Architecture & SOLID Principles**
 - **Edge Computing & WebAssembly (WASM)**
+- **Linux and Computer Networking**
 - **Blockchain & Web3 APIs** (for decentralized applications)
 
 ---
