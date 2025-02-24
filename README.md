@@ -35,7 +35,7 @@
   - Work with Node.js core modules: File System (`fs`), streams, buffers, processes, and child processes.
 
 - **Package Management**
-  - Use **npm** or **yarn** for dependency management.
+  - Use **npm** or **bun** for dependency management.
   - Learn about monorepos (e.g., pnpm, Nx, Turborepo).
 
 - **Backend Frameworks**
